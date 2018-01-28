@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,UACE,QAAU,CAIZ,gBAHE,WAAa","file":"static/css/main.9ffca45e.css","sourcesContent":["html, body {\n  margin: 0;\n  height: 100%;\n}\n\n#root{\n  height: 100%;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
